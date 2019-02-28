@@ -42,7 +42,7 @@
     "test-all-modules": "ava --verbose tests/test-*.js",
     "test-jest": "jest --passWithNoTests",
     "test-urls": "node docs-test/urls.js",
-    "test-migrate": "script/test-migrate",
+    "test-migrate": "script/test-migrate"
   },
   "devDependencies": {
     "@githubprimer/octicons-react": "^8.1.3",
