@@ -35,7 +35,8 @@ $ npm run build
 
 ## Documentation
 
-You can read more about utilities in the [docs folder](./docs/).
+[See docs on primer.style/css](https://primer.style/css/utilities)
+
 
 ## License
 
